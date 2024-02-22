@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'gb';
+    src: url('../fonts/SVN-GilroyBold.woff2') format('woff2'),
+        url('../fonts/SVN-Gilroy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'gsb';
+    src: url('../fonts/SVN-GilroySemiBold.woff2') format('woff2'),
+        url('../fonts/SVN-GilroySemiBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'gr';
+    src: url('../fonts/SVN-Gilroy.woff2') format('woff2'),
+        url('../fonts/SVN-Gilroy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'gl';
+    src: url('../fonts/SVN-GilroyLight.woff2') format('woff2'),
+        url('../fonts/SVN-GilroyLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: fallback;
+}
